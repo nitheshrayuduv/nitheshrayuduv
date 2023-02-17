@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nitheshrayuduv
 - 👀 I’m interested in ...Java and Scala Programming
 - 🌱 I’m currently learning ... Scala and ReactJs
-- 📫 How to reach me ... nithesh.vaddey@digital.ai
 DS ALG
 <!---
 nitheshrayuduv/nitheshrayuduv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
